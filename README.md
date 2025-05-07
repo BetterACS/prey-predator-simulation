@@ -1,1 +1,1 @@
-# pubchem-mcp
+# Prey - predator simulation
